@@ -20,3 +20,5 @@ O | X | O
 -- | -- | --
 X | O | X 
 O | X | O
+
+![alt text](https://github.com/csci3250-2019/student-1155109731/blob/master/screenshot.png)
